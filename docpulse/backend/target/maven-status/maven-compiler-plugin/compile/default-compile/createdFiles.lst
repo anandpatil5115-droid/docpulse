@@ -1,0 +1,15 @@
+com\docpulse\DocPulseApplication.class
+com\docpulse\service\DocumentStore.class
+com\docpulse\service\RagService.class
+com\docpulse\model\ChatRequest$Message.class
+com\docpulse\controller\FileUploadController.class
+com\docpulse\model\Chunk.class
+com\docpulse\model\ChatRequest.class
+com\docpulse\controller\ChatController.class
+com\docpulse\service\PdfService.class
+com\docpulse\model\ChatResponse.class
+com\docpulse\config\CorsConfig$1.class
+com\docpulse\config\CorsConfig.class
+com\docpulse\controller\DocumentController.class
+com\docpulse\model\Document.class
+com\docpulse\service\DocumentStore$ChunkWithSource.class

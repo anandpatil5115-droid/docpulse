@@ -1,0 +1,10 @@
+com\docpulse\controller\DocumentController.class
+com\docpulse\config\WebConfig.class
+com\docpulse\model\DocumentSummary.class
+com\docpulse\DocPulseApplication.class
+com\docpulse\service\DocumentService.class
+com\docpulse\service\DocumentService$ScoredChunk.class
+com\docpulse\config\WebConfig$1.class
+com\docpulse\model\Document.class
+com\docpulse\model\ChatRequest.class
+com\docpulse\model\ChatResponse.class
